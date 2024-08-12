@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.5.0",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "test.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.5.9",
+    "engines": ["knitr"]
+  },
+  "packages": null,
+  "files": {
+    "test.qmd": {
+      "checksum": "bdfd1c8bd4ea5d19c713c81b2bc459b0"
+    }
+  },
+  "users": null
+}
